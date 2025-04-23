@@ -1,5 +1,5 @@
 <!--
-**jamescardona11/jamescardona11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EduardoCastillo87/EduardoCastillo87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 REF: https://github.com/flamrdevs
 
 
@@ -22,8 +22,7 @@ I'm a software engineer from Colombia 🌆
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about Flutter, Android, Node.js
 - 😄 Pronouns: he/him/his
-- 📫 How to reach me: [Linkedin][linkedin]
-- 📝 I write articles on [dev.to][dev.to] - [medium](https://medium.com/@jamescardona11)
+- 📫 How to reach me: https://www.linkedin.com/in/eduardocastillo87/
 - ⚡ Fun fact: I like to play poker ♠️
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamescardona11&label=Profile%20views&color=0e75b6&style=flat" alt="jamescardona11" /> </p>
@@ -74,18 +73,7 @@ I'm a software engineer from Colombia 🌆
 
 [//]: #Articles
 [work]: <https://www.phononx.com>
-[argo]: <https://github.com/jamescardona11/argo>
 [moncli]: <https://github.com/TKMonkey/moncli>
 [tkmonkey]: <https://github.com/TKMonkey>
 [flutter]: <https://flutter.dev>
-
-[linkedin]: <https://linkedin.com/in/jamescardona11>
-[twitter]: <https://twitter.com/jamescardona_11>
-[path]: https://jamescardona11.notion.site/Learning-Path-f43a762b328043269aeb4d6b6d2e31de
-[pblog]: <https://blog.jamescardona11.com>
-[dev.to]: <https://dev.to/jamescardona11>
-[medium]: <[https://medium.com/@jamescardona11]>
-[j11]: <https://jamescardona11.com>
-[current_work]: <https://github.com/jamescardona11/algopath_app>
-[projects]: <https://jamescardona11.com/projects>
-[cv]: [https://www.dropbox.com/s/69l2vuo9ebjtly2/profile_us.pdf?dl=0](https://drive.google.com/file/d/1Kn9Vm_wv7xxEzcMQAnxqK6jvgWeH420C/view)https://drive.google.com/file/d/1Kn9Vm_wv7xxEzcMQAnxqK6jvgWeH420C/view
+[linkedin]: <https://www.linkedin.com/in/eduardocastillo87)>
