@@ -70,9 +70,6 @@ I'm a software engineer from Colombia 🌆
 
 
 
-
-[//]: #Articles
-[work]: <https://www.phononx.com>
 [moncli]: <https://github.com/TKMonkey/moncli>
 [tkmonkey]: <https://github.com/TKMonkey>
 [flutter]: <https://flutter.dev>
