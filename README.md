@@ -1,4 +1,4 @@
-<h1>Eduardo J Castillo M | Flutter Developer</h1>
+<h1>Eduardo Castillo | Flutter Developer</h1>
 <p>Systems Engineer | Tech Innovator | Lifelong Learner</p>
 
 **From system engineering to modern tech — one project at a time**
